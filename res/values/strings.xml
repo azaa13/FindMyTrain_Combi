@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FindMyTrain</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string-array name="Central">
+    <item>Mumbai CST</item>, <item> Masjid</item>, <item> Sandhurst</item>, <item> Byculla</item>, <item> Chinchpokli</item>,
+    <item> Currey Road</item>, <item> Parel</item>, <item> Dadar</item>, <item> Matunga</item>, <item> Sion</item>, <item> Kurla</item>,
+    <item> Vidyavihar</item>, <item> Ghatkopar</item>, <item> Vikroli</item>, <item> Kanjurmarg</item>, <item> Bhandup</item>,
+    <item> Nahur</item>, <item> Mulund</item>, <item> Thane</item>, <item> Kalwa</item>, <item> Mumbra</item>, <item> Diva</item>,<item>Kopar</item>
+    <item> Dombivali</item>, <item> Thakurli</item>, <item> Kalyan</item>
+    </string-array>
+
+    <string-array name="Harbour">
+    <item>Mumbai CST</item>, <item> Masjid bunder</item>, <item> Sandhurst Road</item>, <item> Dockyard Road</item>, <item> Reay Road</item>,
+    <item> Cotton green</item>, <item> Sewri</item>, <item> Wadala Road</item>, <item> GTB Nagar</item>, <item> Chunabhatti</item>, <item> Kurla</item>,
+    <item> Tilak Nagar</item>, <item> Chembur</item>, <item> Govandi</item>, <item> Mankhurd</item>, <item> Vashi</item>, <item> Sanpada</item>,
+    <item> Jui Nagar</item>, <item> Nerul</item>, <item> Seewoods-Darave</item>, <item> CBD Belapur</item>, <item> Kharghar</item>, <item> Mansarovar</item>,
+    <item> Khandeshwar</item>, <item> Panvel</item>
+    </string-array>
+
+    <string-array name="Western">
+        <item>Churchgate</item>, <item> Marine Line</item>, <item> Charni Road</item>, <item> Grant Road</item>, <item> Mumbai Central</item>,
+        <item> Mahalaxmi</item>, <item> Lowerparel</item>, <item> Elphiston Road</item>, <item> Dadar</item>, <item> Matunga Road</item>,
+        <item> Mahim Junction</item>, <item> Bandra</item>, <item> Khar Road</item>, <item> Santacruz</item>, <item> Vile Parle</item>,
+        <item> Andheri</item>, <item> Jogeshwari</item>,<item> Goregaon</item>, <item> Malad</item>, <item> Kandivali</item>, <item> Borivali</item>,
+        <item> Dahisar</item>, <item> Mira Road</item>, <item> Bhayander</item>, <item> Naigaon</item>, <item> Vasai</item>, <item> Nalasopara</item>,
+        <item> Virar</item>, <item>Vaitarna</item>, <item>Saphale</item>, <item>Kelve Road</item>, <item>Palghar</item>, <item>Umroli</item>, <item>Boisar</item>,
+        <item>Vangoan</item>, <item>Dahanu Road</item>
+    </string-array>
+</resources>
